@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'me.petrolingus.cg22.cba'
+version '1.0-SNAPSHOT'
+
+application {
+    mainClassName = 'me.petrolingus.cg22.cba.Main'
+}
